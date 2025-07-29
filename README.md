@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Meet Sanghani
 
-<!--
-**meetsanghani138/meetsanghani138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a tech enthusiast and always learning new things
+- 🌱 Currently exploring GitHub, coding, and development
+- 📫 Reach me at: meetsanghani138@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills
+- Languages: Python, JavaScript, HTML, CSS
+- Tools: Git, VS Code
+
+## 📊 GitHub Stats
+![Meet Sanghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsanghani138&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/)
+- [Portfolio (coming soon)]()
