@@ -1,15 +1,17 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z5P.gif" alt="Animated Banner" width="100%" />
+</p>
+
+<!-- Big Name -->
+<h1 align="center">Meet Sanghani</h1>
+
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/meetsanghani138">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meet+Sanghani+👋;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+🚀;Web+Developer+in+Progress+🌱" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+🚀;Web+Developer+in+Progress+🌱" />
   </a>
 </p>
-
----
-
-# 👋 Hi, I'm Meet Sanghani  
-
-🚀 **Tech Explorer | Lifelong Learner | Developer in Progress**  
 
 ---
 
