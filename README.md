@@ -1,6 +1,8 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Meet+Sanghani;Tech+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%9F;Developer+in+Progress+🚀" alt="Typing SVG" />
+  <a href="https://github.com/meetsanghani138">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meet+Sanghani+👋;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+🚀;Web+Developer+in+Progress+🌱" />
+  </a>
 </p>
 
 ---
