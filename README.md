@@ -1,10 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Meet%20Sanghani&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
 <h1 align="center">Hi 👋, I'm Meet Sanghani</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Web+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Web+Developer;Future+Full+Stack+Developer" />
 </p>
 
-<h3 align="center">🚀 Passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
 
 ---
 
@@ -12,7 +14,7 @@
 
 * 🔭 I’m currently working on **PujaMart – E-commerce Website**
 * 🌱 I’m currently learning **React.js**
-* 💡 I love creating **modern UI & web applications**
+* 💡 I enjoy building **modern web interfaces**
 * 🎯 Goal: Become a **Full Stack Developer**
 
 ---
@@ -33,7 +35,7 @@
 
 ---
 
-## 🚀 Languages & Tools
+## 🚀 Languages and Tools
 
 <p>
 
@@ -63,28 +65,20 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project                     | Description                                 |
 | --------------------------- | ------------------------------------------- |
-| 🛕 **PujaMart**             | React based Puja Samagri E-commerce Website |
-| 🛍️ **Product Catalog App** | Multi-page React app with Context API cart  |
-| 🌦️ **Weather Dashboard**   | Weather UI built with HTML, CSS, JS         |
+| 🛕 **PujaMart**             | React based Puja Samagri E-commerce website |
+| 🛍️ **Product Catalog App** | Multi-page React app using Context API      |
+| 🌦️ **Weather Dashboard**   | Weather UI using HTML, CSS & JavaScript     |
 
 ---
 
-## 💻 Quote
+## 💬 Developer Quote
 
-> "First, solve the problem. Then, write the code."
+> "First solve the problem, then write the code."
 
 ---
 
-⭐ From [Meet Sanghani](https://github.com/meetsanghani138)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
